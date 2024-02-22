@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">LoginRegisgterApp</string>
+
+    <string name="hello">Hey there, </string>
+    <string name="create_account">Create an Account</string>
+    <string name="welcome">Welcome Back </string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email">E-mail</string>
+    <string name="password">Password</string>
+    <string name="hide_password">Hide password</string>
+    <string name="show_password">Show password</string>
+
+    <string name="terms_conditions">By continuing you accept our Privacy Policy and Terms of use</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+
+    <string name="already_account">Already have an account?</string>
+    <string name="dont_account">Don\'t have an account yet?</string>
+    <string name="forgot_password">Forgot your password?</string>
+
+</resources>
